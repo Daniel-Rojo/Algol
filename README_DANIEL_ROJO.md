@@ -1,4 +1,4 @@
-I only uploaded the files that I have or may have modified.
+I only uploaded the files related to the exercises
 
 I omitted the folder node_modules because of the amount of files and size
 
