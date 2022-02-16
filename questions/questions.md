@@ -81,9 +81,14 @@ Subject: Re: Error on website
 
 Hi,
 
-Thank you for your message and provideing the screeshot with the error.
+Thank you for your message and providing the screeshot with the error.
 
+In order to have this issue sorted out could we ask you to please reload your instant search page? This action should fix the problem. We would also recommend to clear the cache from your browser.
 
+Please let us know if you need some help performing the recommended actions or have any other questions, we'll be pleased to assist.
+
+Kind regards
+D Rojo
 
 
 
